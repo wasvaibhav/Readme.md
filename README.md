@@ -30,7 +30,7 @@ Building scalable systems, secure applications, and powerful AI-driven features.
    - 🤖 **Automation Scripts & IoT Experiments (ESP32-CAM)**  
 🔹 I love solving problems, optimizing workflows, and learning new technologies.  
 
-📫 **Reach me at:** your-email@example.com  
+📫 **Reach me at:** vaibhavkaira987@gmail.com  
 
 ---
 
@@ -43,9 +43,9 @@ Building scalable systems, secure applications, and powerful AI-driven features.
 
 ### ⚙️ **Backend & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
 </p>
 
 ### 🧰 **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github
+  <img src="https://skillicons.dev/icons?i=git,github,linux
