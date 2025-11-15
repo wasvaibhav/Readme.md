@@ -1,72 +1,51 @@
-<h1 align="center">Hi 👋, I'm Rishi Kaira</h1>
-<h3 align="center">A passionate developer from India</h3>
+<!-- HEADER -->
+<div align="center">
+  
+# 👋 Hi, I'm **Vaibhav Singh Kaira**  
+### Backend Developer • AI Enthusiast • Problem Solver  
+
+Building scalable systems, secure applications, and powerful AI-driven features.
+
+🌍 **India** | 💼 Open to Opportunities  
+</div>
 
 ---
 
-## 🚀 About Me
-- 🔭 I’m currently working on **AI-Based Chat Suggestion Engine & Secure Chat App**
-- 🌱 I’m learning **Python | FastAPI | Git | Data Structures**
-- 👯 I’m looking to collaborate on **Open-Source Projects**
-- 💬 Ask me about **Backend Development, APIs, Python**
-- 📫 How to reach me: **your-email@example.com**
-- ⚡ Fun fact: *I break code to fix code 😄*
-
----
-
-## 📌 Skills & Tools
-
-### 💻 Programming Languages
-- Python  
-- JavaScript  
-- C / C++  
-
-### 🧰 Frameworks & Libraries
-- FastAPI  
-- Flask  
-- Node.js  
-
-### 🛠️ Tools
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Linux/Bash  
-
----
-
-## 📊 GitHub Stats
-
+<!-- BADGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160px"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20AI-blue?style=flat-square" />
 </p>
 
 ---
 
-## 📂 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+# 🚀 About Me
+
+🔹 Passionate about building **secure backends**, **AI systems**, and **automation tools**  
+🔹 Exploring **FastAPI**, **System Design**, **DSA**, **Advanced Python**  
+🔹 Currently working on:  
+   - 🧠 **AI Chat Suggestion Engine (DSA-Based)**  
+   - 🔐 **Encrypted Secure Chat App (Python + Sockets)**  
+   - 🤖 **Automation Scripts & IoT Experiments (ESP32-CAM)**  
+🔹 I love solving problems, optimizing workflows, and learning new technologies.  
+
+📫 **Reach me at:** your-email@example.com  
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c" />
 </p>
 
----
-
-## 🔗 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40px" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40px" />
-</a>
+### ⚙️ **Backend & Frameworks**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 </p>
 
----
-
-## 🛠️ Projects
-- 🔐 **Secure Chat Application (End-to-End Encryption)**  
-- 🧠 **AI Chat Suggestion Engine (DSA Based)**  
-- 📱 **ESP32-CAM IoT Projects**  
-- 🌐 **FastAPI Backend Projects**
-
----
-
-⭐ **Feel free to ⭐ my repositories if you like them!**
+### 🧰 **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github
