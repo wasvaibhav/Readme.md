@@ -27,8 +27,8 @@
 
 ### **Backend / Frameworks**
 ![FastAPI](https://skillicons.dev/icons?i=fastapi)
-//![Flask](https://skillicons.dev/icons?i=flask)
-//![NodeJS](https://skillicons.dev/icons?i=nodejs)
+<!--![Flask](https://skillicons.dev/icons?i=flask)-->
+<!--![NodeJS](https://skillicons.dev/icons?i=nodejs)-->
 
 ### **Tools & Platforms**
 ![Git](https://skillicons.dev/icons?i=git)
