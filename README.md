@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#58a6ff">Vaibhav Kaira</span></h1>
 <h3 align="center">Backend Developer • AI Enthusiast • Cybersecurity Learner</h3>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" width="100%" />
-</p>
+</p>-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wasvaibhav&label=Profile%20Views&color=0e75b6&style=flat" />
