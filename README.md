@@ -67,11 +67,6 @@
 
 ## 🔥 Featured Projects
 
-### 🔐 Secure Chat Application (End-to-End Encryption)
-- Python + Sockets  
-- Cryptographic message encoding  
-- Multi-client real-time chat  
-
 ### 🧠 AI Chat Suggestion Engine  
 - DSA-powered fast suggestions  
 - ML-based auto-reply generation  
@@ -96,9 +91,10 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](#)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vaibhavkaira)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:vaibhavkaira987@gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/wasvaibhav)
+
 
 ---
 
