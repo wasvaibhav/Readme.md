@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Vaibhav Singh Kaira</h1>
+<h1 align="center">Hi there 👋, I'm Vaibhav Kaira</h1>
 
 <p align="center">
   I specialize in <strong>Python</strong> and love building efficient, real-world solutions.
