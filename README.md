@@ -1,89 +1,83 @@
-<h1 align="center">Hi there 👋, I'm Vaibhav Kaira</h1>
+<h1 align="center">Vaibhav Kaira</h1>
+<h3 align="center">Python Developer | AI & Backend Enthusiast | B.Tech Student</h3>
 
 <p align="center">
-  I specialize in <strong>Python</strong> and love building efficient, real-world solutions.
+  I build scalable backend systems, AI-based solutions, and real-world software projects.
+  Passionate about problem solving, clean architecture, and continuous learning.
+</p>
+
+<p align="center">
+  <a href="mailto:your-email@example.com">Email</a> •
+  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
+  <a href="https://portfolio-link.com">Portfolio</a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Featured Projects
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <!--<img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>-->
-  <!--<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>-->
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+### 🔹 Secure Chat Application with End-to-End Encryption
+- Built using Python, Sockets & Cryptography
+- Implemented real-time communication with threading
+- AES-based encryption for secure messaging
 
-  <!-- Web Dev -->
-  <br/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+### 🔹 AI-Based Chat Suggestion Engine
+- Smart reply generation using NLP concepts
+- Implemented data structures for fast suggestion retrieval
+- Built using Python & Machine Learning libraries
 
-  <!-- Backend & APIs -->
-  <br/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+### 🔹 CNN Model Implementation
+- Designed and trained CNN model on Google Colab
+- Applied softmax for multi-class classification
+- Implemented using TensorFlow / Keras
 
-  <!-- Mobile & Tools -->
-  <br/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <!--<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>-->
+---
 
-  <!-- Databases & Data -->
-  <br/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/seaborn-%234682B4.svg?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+## 🛠 Tech Stack
+
+### 👨‍💻 Programming
+Python • JavaScript • Bash
+
+### 🌐 Web & Backend
+FastAPI • Flask • HTML5 • CSS3
+
+### 📊 Data & AI
+Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn
+
+### 🗄 Databases
+MySQL • MongoDB
+
+### ☁ Tools & Cloud
+Git • GitHub • AWS • Vercel • Flutter
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=wasvaibhav&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" width="60%" />
-
-  <br/><br/>
-
-  <img src="https://nirzak-streak-stats.vercel.app/?user=wasvaibhav&theme=tokyonight&hide_border=false" width="60%" />
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wasvaibhav&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=wasvaibhav&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wasvaibhav&theme=radical&no-frame=false&no-bg=false&margin-w=8"/>
-</div>
-
----
-
-## 📈 Contributions
-
-<div align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasvaibhav&theme=tokyo-night&hide_border=true"/>
-</div>
+</p>
 
 ---
 
-## ✨ Quote of the Day
+## 🎯 Current Focus
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+- Data Structures & Algorithms
+- Backend System Design
+- Machine Learning Projects
+- Open Source Contributions
 
 ---
+
+## 💡 Philosophy
+
+> "First, solve the problem. Then, write the code."
